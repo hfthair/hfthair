@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 -->
-[Resume](https://hfthair.github.io/)
+;)
 <!--
 **hfthair/hfthair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
